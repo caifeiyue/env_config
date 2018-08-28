@@ -35,8 +35,11 @@ apt upgrade -y
 
 
 # install software
-# TODO: need to judge whether installed success
+# TODO: judge whether installed success
 apt install google-chrome-stable
 apt install terminator
 apt install okular
 apt install shutter
+apt install python3
+apt install python3-pip
+apt install ipython
