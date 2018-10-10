@@ -34,12 +34,23 @@ apt update
 apt upgrade -y
 
 
-# install software
+# software install
 # TODO: judge whether installed success
+# TODO: whether installed already
+# f.lux
+# jianguoyun
+
+# chrome
 apt install google-chrome-stable
+apt install fcitx-googlepinyin
+
 apt install terminator
 apt install okular
 apt install shutter
+apt install meld
+apt install feh
+
+# python related
 apt install python3
 apt install python3-pip
 apt install ipython
