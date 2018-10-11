@@ -40,17 +40,27 @@ apt upgrade -y
 # f.lux
 # jianguoyun
 
-# chrome
+# a fast, simple, & secure browser
 apt install google-chrome-stable
+
 apt install fcitx-googlepinyin
 
+# the robot future of terminals
 apt install terminator
+
+# more than a reader
 apt install okular
+
+# feature-rich screenshot tool
 apt install shutter
+
+# visual diff and merge tool
 apt install meld
+
+# a fast and light image viewer
 apt install feh
 
-# python related
+# python
 apt install python3
 apt install python3-pip
 apt install ipython
